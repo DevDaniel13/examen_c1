@@ -51,7 +51,7 @@ public class RectanguloActivity extends AppCompatActivity {
                 if(rbArea.isChecked() == true){
                     lblRes1.setText("El area es: ");
                     lblRes2.setText(""+c.calcularArea());
-                }else{
+                }else if(rbPerimetro.isChecked() == true){
                     lblRes1.setText("El perimetro es: ");
                     lblRes2.setText(""+c.calcularPerimetro());
                 }
