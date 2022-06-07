@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="titulo">Calculos del Rectangulo</string>
+    <string name="nombre">Escribe aqui tu nombre</string>
+    <string name="base">Escribe la base de rectangulo</string>
+    <string name="altura">Escribe aqui la altura del rectangulo</string>
+    <string name="calcular">Que deseas calcular</string>
+</resources>
